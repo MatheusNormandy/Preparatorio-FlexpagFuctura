@@ -1,0 +1,28 @@
+# O que é esse projeto?
+## A função primária desse trabalho é criar um cadastro de contatos, com suporte a atualizações inserindo e removendo contatos salvos.
+
+#Qual o propósito desse preparatório?
+## Seleção de vagas de trabalho, juntamente com o trabalho em equipe feito pela Flexpag em parceria com a Fuctura Tecnologias.
+
+#Tecnologias: 
+
+##Spring Boot
+##Lombok
+##MySQL
+##Insomnia
+##GIT
+
+##Java-Backend: 
+
+### Spring boot
+## Criação dos projetos e edições
+## Criação de entidades
+## Mapeamento de conexão com banco de dados para um melhor seviço
+## Criação de serviço Rest 
+
+##Java-Frontend:
+
+### Typescript
+### HTML
+### CSS
+### Bootstrap
