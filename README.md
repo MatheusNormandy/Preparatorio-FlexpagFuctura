@@ -19,7 +19,7 @@
 ### ➝ Spring boot
 ### ➝ Projetos e atualizações
 ### ➝ Entidades
-### ➝ Monitoramento da conexão com banco de dados para um melhor seviço
+### ➝ Monitoramento da conexão com banco de dados para um melhor serviço
 ### ➝ Serviço Rest 
 
 # • Java-Frontend:
